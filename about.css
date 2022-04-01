@@ -53,8 +53,9 @@ table{
     /* border-spacing: 40px; */
 }
 th{
-    text-align: left;
-    font-weight: 15px;
+    text-align: center;
+    font-weight: 400;
+    font-size: smaller;
 }
 td{
     font-size: 25px;
@@ -66,7 +67,7 @@ table, th, td{
     border-collapse: collapse;
 }
 caption{
-    font-weight: bolder;
+    font-weight: 400;
 }
 #container{
     min-height: 100%;
